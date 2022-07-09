@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NdukaClara
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate with other web devs to create unique responsive websites
-- 📫 How to reach me: ndukaclara@gmail.com
+- 👋 Hi, I’m Clara, a front-end developer
+
+- Tech Stack:
+React, Next.js, Typescript, Node.js, Express.js, Typescript, Bootstrap
+- 📫 You can reach me here: ndukaclara@gmail.com
+- Connect with me on (Linkein)[http://linkedin.com/in/clara-nduka]
 
 <!---
 NdukaClara/NdukaClara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
