@@ -1,9 +1,6 @@
 ## 👋 Hello there,
 ## About me 👩‍💼
-- 👀 I am Clara, currently working as a freelance front-end developer and actively looking for a full-time front-end developer role.
-- 💻 I'm a front-end developer, technical writer, and web3 developer
-- 🌱 I'm currently learning TypeScript and Redux
-- 💞️ Interests: Listening to songs, traveling
+- 💻 I'm a front-end developer & technical writer
 - 📫 You can reach me here: ndukaclara@gmail.com
 
 ## Tech Stack
