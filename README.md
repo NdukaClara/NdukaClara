@@ -1,6 +1,6 @@
 ## 👋 Hello there,
 ## About me 👩‍💼
-- 💻 I'm a front-end developer & technical writer
+- 💻 I'm a software engineer & technical writer
 - 📫 You can reach me here: ndukaclara@gmail.com
 
 ## Tech Stack
